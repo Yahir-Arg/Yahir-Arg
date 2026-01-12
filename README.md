@@ -11,7 +11,7 @@ My journey with computer systems and network technologies has led me to begin my
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Device Troubleshooting and Automatic Secuirty Checks| <a href="[https://google.com](https://github.com/Yahir-Arg/network-automation)">Network Automation Project</a>|
+| Device Troubleshooting and Automatic Secuirty Checks| <a href="https://github.com/Yahir-Arg/network-automation">Network Automation Project</a>|
 | Network Device Configurations and Security | <a href="https://google.com">Home Lab</a>|
 
 
