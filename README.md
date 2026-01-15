@@ -24,5 +24,5 @@ My journey with computer systems and network technologies has led me to begin my
 </div>
 
 ## Projects
-- HomeLab
 - Network Automation Project
+- Homelab
